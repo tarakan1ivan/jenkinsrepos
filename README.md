@@ -1,1 +1,1 @@
-# jenkins-example-scripts-python
+# jenkins-python-script
